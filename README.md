@@ -7,9 +7,9 @@ This is small android project which will display covid19 cases.
 * Java
 * Android Studio
 
-### credits
+### Credits
 
-* GeeksforGeeks
-* Android Studio
+* GeeksforGeeks.
+* Android Studio.
 
 If you like repository ⭐ the repository.
