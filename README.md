@@ -1,4 +1,4 @@
-# Covid19Tracker
+# Covid19 Tracker
 
 This is small android project which will display covid19 cases across the world using api.
 
